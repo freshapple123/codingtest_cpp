@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\jiwoo\\\uBC30\uACBD\uD654\uBA74\\\uC54C\uACE0\uB9AC\uC998\\codingtest_cpp\\\uC815\uC9C0\uC6B0 \uC5F0\uC2B5\uC7A5\\main\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\codingtest_cpp\\\uC815\uC9C0\uC6B0 \uC5F0\uC2B5\uC7A5\\main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{705BD342-1242-473B-B8AF-1C2B32046A4C}|coding_test\\coding_test.vcxproj|D:\\jiwoo\\\uBC30\uACBD\uD654\uBA74\\\uC54C\uACE0\uB9AC\uC998\\codingtest_cpp\\\uC815\uC9C0\uC6B0 \uC5F0\uC2B5\uC7A5\\main\\coding_test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{705BD342-1242-473B-B8AF-1C2B32046A4C}|coding_test\\coding_test.vcxproj|C:\\Users\\USER\\Desktop\\codingtest_cpp\\\uC815\uC9C0\uC6B0 \uC5F0\uC2B5\uC7A5\\main\\coding_test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{705BD342-1242-473B-B8AF-1C2B32046A4C}|coding_test\\coding_test.vcxproj|solutionrelative:coding_test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cpp",
-              "DocumentMoniker": "D:\\jiwoo\\\uBC30\uACBD\uD654\uBA74\\\uC54C\uACE0\uB9AC\uC998\\codingtest_cpp\\\uC815\uC9C0\uC6B0 \uC5F0\uC2B5\uC7A5\\main\\coding_test\\test.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\codingtest_cpp\\\uC815\uC9C0\uC6B0 \uC5F0\uC2B5\uC7A5\\main\\coding_test\\test.cpp",
               "RelativeDocumentMoniker": "coding_test\\test.cpp",
-              "ToolTip": "D:\\jiwoo\\\uBC30\uACBD\uD654\uBA74\\\uC54C\uACE0\uB9AC\uC998\\codingtest_cpp\\\uC815\uC9C0\uC6B0 \uC5F0\uC2B5\uC7A5\\main\\coding_test\\test.cpp*",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\codingtest_cpp\\\uC815\uC9C0\uC6B0 \uC5F0\uC2B5\uC7A5\\main\\coding_test\\test.cpp*",
               "RelativeToolTip": "coding_test\\test.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-18T05:07:28.401Z",
               "EditorCaption": ""
